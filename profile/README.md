@@ -1,4 +1,4 @@
-# Piparo.tech
+# piparo.tech
 
 Welcome to the official GitHub repository for Piparo.tech, a technology organization that specializes in web development and digital marketing solutions. Our mission is to help businesses and individuals succeed in the digital world by providing innovative and effective solutions.
 
